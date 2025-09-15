@@ -29,7 +29,6 @@ The project demonstrates **object-oriented programming principles**:
 ---
 
 ## 🧩 UML Diagram  
-![UML Diagram](./UML_Diagram.png)  
 ![Final Assignment UML Diagram](https://github.com/user-attachments/assets/0904e1c1-27fe-4363-be8c-3721b42e914b)
 
 ---
